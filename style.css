@@ -1,4 +1,4 @@
-body {background-color: #0E72EC;}
+body {background-color: #f3f3f3;}
 
 .content{
     max-width: 600px;
@@ -7,7 +7,7 @@ body {background-color: #0E72EC;}
     justify-content: center;
     align-items: center;}
 h2 {
-    background-color: #4a4be7;
+    background-color: #0E72EC;
     color:#ffffff;
     padding:10px;
     font-family: arial;
